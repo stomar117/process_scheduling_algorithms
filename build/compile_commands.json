@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/gh0st/Projects/process_scheduling_algorithms/build",
+    "command": "c++ -Irun.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -MD -MQ run.p/src_main.cpp.o -MF run.p/src_main.cpp.o.d -o run.p/src_main.cpp.o -c ../src/main.cpp",
+    "file": "../src/main.cpp",
+    "output": "run.p/src_main.cpp.o"
+  }
+]
